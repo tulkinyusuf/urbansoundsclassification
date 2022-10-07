@@ -8,4 +8,4 @@
 - Zeynep Aslı ERHAN, <zeynepaslierhan@gmail.com>
 - Ferah GÖKTÜRK, <gferah@gmail.com>
 - Taha Kerem ERİŞ, <tahakeremeris@hotmail.com>
-- Atakan ADIYAMAN, https://github.com/atakanady
+- Atakan ADIYAMAN, <atakndymn@hotmail.com>
