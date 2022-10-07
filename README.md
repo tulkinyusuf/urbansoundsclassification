@@ -2,7 +2,7 @@
 ## Koç Holding Derin Öğrenme Bootcamp
 ### DLTR takımı projesi
 
-## Takım Üyeleri
+#### Takım Üyeleri
 
 - Tulkin YUSUPOV, <tulkin.yusuf@gmail.com>
 - Zeynep Aslı ERHAN, <zeynepaslierhan@gmail.com>
